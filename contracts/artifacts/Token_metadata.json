@@ -405,9 +405,9 @@
 	},
 	"sources": {
 		"contracts/Token.sol": {
-			"keccak256": "0xa77ae817c57ee7ac02d31a4a71e5210a81769069aec618f0cf7f80fded7a2ba4",
+			"keccak256": "0x77ac86156d69b4765121739e3e7e7b95e5061601e30bbbba5ec9fd06312a5dad",
 			"urls": [
-				"bzzr://9822edafe97c9e1017188242683ae81aaec65c0682579d19dade6aa2950de113"
+				"bzzr://a6a8bad428dbfbf1535e1d91458250ed6b8ded15866249187f2688e33e5575d3"
 			]
 		},
 		"https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/GSN/Context.sol": {
